@@ -1,8 +1,6 @@
 
 
 - :wave: I'm Khairul Imam
-- :seedling: Always learning something new.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-khairulkrhacx-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khairul-imam-703849192/)
 - Currently Study for : React
 
 ### :fire: My Stats :
